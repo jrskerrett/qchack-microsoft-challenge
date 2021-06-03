@@ -68,6 +68,10 @@ For the general guidelines on judging projects, please refer to the [Official Ha
 
 The winning teams will earn a sense of pride and accomplishment and possibly a gold star on their completion certificate.
 
+##	Lessons Learned
+–	How can quantum computing or Q# be exploited in your work?
+
+
 ## Resources
 
 Here is a list of resources to help you learn more about various parts of our challenge:
