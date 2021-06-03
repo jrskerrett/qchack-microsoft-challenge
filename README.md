@@ -98,9 +98,5 @@ We also recommend you to install the [Quantum Katas](https://github.com/Microsof
 * ["Solving graph coloring problems using Grover's algorithm" kata](https://github.com/microsoft/QuantumKatas/blob/main/GraphColoring) - practice implementing oracles and using Grover's algorithm to solve a problem
 * ["Solving bounded knapsack problem using Grover's algorithm" kata (work in progress)](https://github.com/microsoft/QuantumKatas/pull/457)
 
-## Rules
-
-This page lists Microsoft additional unique rules for its Challenge, including judging criteria, submission guidelines, eligibility and prizes. Please refer to the [Official QCHack Hacking Rules 2021](https://docs.google.com/document/d/1_Jln3lIfNmYPlUtJ17zgwi5FQtNtzhHR-fH15QqW3xc/edit) for general QCHack rules.
-
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/quantumcoalition/qchack-microsoft-challenge/master)
