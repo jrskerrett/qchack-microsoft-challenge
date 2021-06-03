@@ -1,6 +1,6 @@
-# Welcome to Microsoft challenge at QCHack 2021!
+# Welcome to the Microsoft hackathon challenge
 
-We are excited to offer this challenge to [QCHack 2021](https://www.qchack.io/) participants, and we are looking forward to the solutions you will come up with!
+We are excited to offer this challenge to the hackathon participants, and we are looking forward to the solutions you will come up with!
 
 ## Challenge overview
 
@@ -56,21 +56,17 @@ To submit your solutions:
 2. Work on the solutions to the tasks from part 1 and the project from part 2.
 3. Commit your work to your forked repository.  
    For part 1 tasks, you should only modify Tasks.qs files. For part 2 project, commit any files you consider relevant: the project itself, screenshots of results, any visualizations you've done, etc. 
-4. To submit your project, submit the link to your repository.  
+4. To submit your project, email the link to your repository to Jon.Skerrett@microsoft.com
    Your repository has to be made public at the time of the Hackathon end for us to be able to judge your solutions. We don't recommend making your work public early during the Hackathon, so as not to tempt other teams to borrow from your work. Let everybody enjoy their exploration!  
    *Note that GitHub doesn't allow to change visibility of the forks. You can either fork the repository, keep it public, and push your changes at the last possible moment, or you can duplicate the repository, make it private to work on it during the Hackathon, and make it public at the end of the Hackathon. Your repo is not required to be an actual fork, it just has to follow the folder structure of this repo for Part 1 tasks.*
 5. If your project for part 2 includes a blog post about your project, publish it shortly after the Hackathon end and add a link to it to your GitHub repository.
 
-For the general guidelines on judging projects, please refer to the [Official QCHack Hacking Rules 2021](https://docs.google.com/document/d/1_Jln3lIfNmYPlUtJ17zgwi5FQtNtzhHR-fH15QqW3xc/edit).
+For the general guidelines on judging projects, please refer to the [Official Hacking Rules](https://docs.google.com/document/d/1_Jln3lIfNmYPlUtJ17zgwi5FQtNtzhHR-fH15QqW3xc/edit).
 
 
 ## Eligibility and prizes
 
-The (6) highest cumulative team scores from parts 1 and 2 of the challenge will receive a **$250 Visa Gift Card** (physical or virtual) for the team. The winning teams will have an opportunity to present their projects to the Microsoft Quantum Team, at a later date and time (to be scheduled after the results announcement).
-
-Government officials and Microsoft employees are not eligible to participate in this challenge.
-
-For the general rules on eligibility and prizes, please refer to the [Official QCHack Hacking Rules 2021](https://docs.google.com/document/d/1_Jln3lIfNmYPlUtJ17zgwi5FQtNtzhHR-fH15QqW3xc/edit).
+The winning teams will earn a sense of pride and accomplishment and possibly a gold star on their completion certificate.
 
 ## Resources
 
